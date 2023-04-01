@@ -1,0 +1,22 @@
+{
+  "name": "hw01",
+  "version": "1.0.0",
+  "description": "node-hw01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlexTS/node-hw01.git"
+  },
+  "author": "Olexandr Tsapuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlexTS/node-hw01/issues"
+  },
+  "homepage": "https://github.com/OlexTS/node-hw01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
